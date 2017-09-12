@@ -5,19 +5,19 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title>Planets of the universe</title>
+  <link rel="stylesheet" href="../css/common.css">
 </head>
 <body>
 <header>
   <h1>Planets of the universe</h1>
-  <nav>
-    <ul>
-    <li><a href="{{site.baseurl}}/index.html">Home</a></li>
-    <li><a href="{{site.baseurl}}/news.html">News</a></li>
-    </ul>
-  </nav>
+  {% include nav.html navclass='nav-top' %}
 </header>
 
 {{content}}
 
+<footer>
+  {% include nav.html navclass='nav-bottom' %}
+  <p>&copy; 2017 the pixel fury</p>
+</footer>
 </body>
 </html>
