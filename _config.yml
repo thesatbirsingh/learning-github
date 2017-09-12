@@ -1,1 +1,2 @@
-theme: jekyll-theme-tactile
+baseurl: /learning-github
+exclude: ['README.md']
