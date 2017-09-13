@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Man Send to mars
 meta: first man send to the mars
 source: http://www.google.com/news

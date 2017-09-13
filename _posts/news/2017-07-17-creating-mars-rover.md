@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Curiosity rover
 meta: Future mars explorers and their mission
 source: http://www.google.com/news

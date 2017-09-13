@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: rover blasts off
 meta: curiosity rover hits an asteroid
 source: http://www.google.com/news
