@@ -8,4 +8,4 @@
   <p>Info about the project.</p>
 
   <hr>
-  <p>As done by  <a href="https://github.com/davidgilbertson/">davidgilbertson</a></p>
+ 
